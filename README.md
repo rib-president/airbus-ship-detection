@@ -2,6 +2,15 @@
 # **Airbus-ship-Detection from satellite pictures**
 
 
+## Table of Contents  
+* [About](#about)
+* [How to](#how-to)
+* [Architecture](#architecture)
+* [Result](#result)
+  
+   
+  
+
 ## About
 바다 위성사진에서 수송선을 찾아 segmentation하는 프로젝트입니다. 
     
@@ -215,14 +224,14 @@ Language|Python|Python|
   
   
 ## Result
-![](/sample/shipres1.jpg){:.align-center}
+![](/sample/shipres1.jpg)
   
   
 
-![](/sample/shipres2.jpg){:.align-center}
+![](/sample/shipres2.jpg)
   
 
-![](/sample/shipres3.jpg){:.align-center}
+![](/sample/shipres3.jpg)
     
   
 
