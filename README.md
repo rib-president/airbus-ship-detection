@@ -1,12 +1,6 @@
----
-title: "위성사진 수송선 인식 프로그램"
-excerpt: "바다 위성사진에서 수송선을 찾아 인식하는  프로젝트"
 
-toc: true
-toc_sticky: true
+# **Airbus-ship-Detection from satellite pictures**
 
-categories: Project
----
 
 ## About
 바다 위성사진에서 수송선을 찾아 segmentation하는 프로젝트입니다. 
@@ -29,7 +23,7 @@ categories: Project
   
 EncodedPixels을 Run-Length Decode 하여 얻은 이미지의 mask로 segmentation 모델 학습  
    
-**RLE Decode***: 반복되는 값이 나타나는 지점의 pixel과 개수로 encode된 것을 다시 원래 이미지로 decode*
+**RLE Decode**: *반복되는 값이 나타나는 지점의 pixel과 개수로 encode된 것을 다시 원래 이미지로 decode*
   
   
   
