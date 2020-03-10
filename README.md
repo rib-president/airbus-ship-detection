@@ -233,7 +233,5 @@ Language|Python|Python|
 
 ![](/sample/shipres3.jpg)
     
+   
   
-
-## Code
-<https://github.com/rib-president/airbus-ship-detection>
